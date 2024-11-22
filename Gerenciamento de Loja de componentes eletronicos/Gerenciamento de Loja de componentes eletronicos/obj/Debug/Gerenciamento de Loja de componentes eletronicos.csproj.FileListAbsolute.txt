@@ -1,0 +1,13 @@
+C:\Users\victo\source\repos\Gerenciamento de Loja de componentes eletronicos\Gerenciamento de Loja de componentes eletronicos\bin\Debug\Gerenciamento de Loja de componentes eletronicos.exe.config
+C:\Users\victo\source\repos\Gerenciamento de Loja de componentes eletronicos\Gerenciamento de Loja de componentes eletronicos\bin\Debug\Gerenciamento de Loja de componentes eletronicos.exe
+C:\Users\victo\source\repos\Gerenciamento de Loja de componentes eletronicos\Gerenciamento de Loja de componentes eletronicos\bin\Debug\Gerenciamento de Loja de componentes eletronicos.pdb
+C:\Users\victo\source\repos\Gerenciamento de Loja de componentes eletronicos\Gerenciamento de Loja de componentes eletronicos\bin\Debug\Guna.UI2.dll
+C:\Users\victo\source\repos\Gerenciamento de Loja de componentes eletronicos\Gerenciamento de Loja de componentes eletronicos\obj\Debug\Gerenciamento de Loja de componentes eletronicos.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\Gerenciamento de Loja de componentes eletronicos\Gerenciamento de Loja de componentes eletronicos\obj\Debug\Gerenciamento_de_Loja_de_componentes_eletronicos.PAL.FormLogin.resources
+C:\Users\victo\source\repos\Gerenciamento de Loja de componentes eletronicos\Gerenciamento de Loja de componentes eletronicos\obj\Debug\Gerenciamento_de_Loja_de_componentes_eletronicos.Properties.Resources.resources
+C:\Users\victo\source\repos\Gerenciamento de Loja de componentes eletronicos\Gerenciamento de Loja de componentes eletronicos\obj\Debug\Gerenciamento de Loja de componentes eletronicos.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\Gerenciamento de Loja de componentes eletronicos\Gerenciamento de Loja de componentes eletronicos\obj\Debug\Gerenciamento de Loja de componentes eletronicos.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Gerenciamento de Loja de componentes eletronicos\Gerenciamento de Loja de componentes eletronicos\obj\Debug\Gerencia.5873F267.Up2Date
+C:\Users\victo\source\repos\Gerenciamento de Loja de componentes eletronicos\Gerenciamento de Loja de componentes eletronicos\obj\Debug\Gerenciamento de Loja de componentes eletronicos.exe
+C:\Users\victo\source\repos\Gerenciamento de Loja de componentes eletronicos\Gerenciamento de Loja de componentes eletronicos\obj\Debug\Gerenciamento de Loja de componentes eletronicos.pdb
+C:\Users\victo\source\repos\Gerenciamento de Loja de componentes eletronicos\Gerenciamento de Loja de componentes eletronicos\bin\Debug\Computer.dll
